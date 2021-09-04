@@ -556,8 +556,11 @@ class GoogleDriveHelper:
                     return "No Result Found ❌", None
                 for content in self.telegraph_content:
                     self.path.append(Telegraph(access_token=TELEGRAPH_TOKEN).create_page(
-                        title='Slam Mirror Bot Search',
+                        # title='Slam Mirror Bot Search',
+                        title='MyMirror Bot Search',
+                        # author_name='Slam Mirror Bot',
                         author_name='Slam Mirror Bot',
+                        # author_url='https://github.com/breakdowns/slam-mirrorbot',
                         author_url='https://github.com/breakdowns/slam-mirrorbot',
                         html_content=content
                     )['path'])
