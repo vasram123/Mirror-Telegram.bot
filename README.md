@@ -59,7 +59,7 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/magneto_HEROKU
+git clone https://github.com/Wi1mer/Mirror-Telegram.bot
 cd mirrorbot
 ```
 
