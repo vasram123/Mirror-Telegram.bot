@@ -43,9 +43,13 @@ def stats(update, context):
 
 @run_async
 def start(update, context):
+    # start_string = f'''
+# Hi {update.message.chat.first_name}, This bot can mirror all your links to Google drive!
+# Type /{BotCommands.HelpCommand} to get a list of available commands
+# '''
     start_string = f'''
-Hi {update.message.chat.first_name}, This bot can mirror all your links to Google drive!
-Type /{BotCommands.HelpCommand} to get a list of available commands
+Hola {update.message.chat.first_name}, Este bot puede descargar/reflejar todos sus enlaces a Google Drive!
+Escribe /{BotCommands.HelpCommand} para obtener una lista de los comandos disponibles
 '''
     update.effective_message.reply_photo("https://telegra.ph/file/511f10824f13e639703e1.jpg", start_string, parse_mode=ParseMode.MARKDOWN)
 
