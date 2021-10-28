@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "brutal-mission-1",
+  "private_key_id": "66dec0a3c1a71a8c9514818fcffcfb7438eabf3e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDXaWDUyYnBLKyv\np0ahgHpWOm9FwXCahUovemW/GhDsKWNPP8bJZVeUrPKO25qyIiYCs3aDCYylYnLr\nK2s0mbafmXxSWcJXU0f7ig1aYpn48sF6vUPL6lAXFgpbEhNdFWjmBfp43U2LFCts\nXvmEQqwlQFVVstkAOw0bWx0TE0VcNpgKH+W17fXNA6FS2L7Nwr9mpB7BUH35K09q\ngPc1WuHFkkWel/XDTSOQi5LiLAMOQXgvZGueVwYvKyqT8eLfTx4G2NJZoAXrZUEX\nAfAV4vyDXD09lrlFajytn+8D1d/eU3C3hPyZBRXOZeMo7WFy619tuHooInO9AEYp\nTPRp7QlVAgMBAAECggEAAU3XQvqEXbnEQtz3ob8qHm8EoO66nIjdiduLFaTWAOQA\nQKjRboMxTEpevowoS9dGlSIaf9EVO6QUr4VIBR3AHAe9F6+I7Gfp6eUsTwWFSptH\nnhNav3eH7BfbULFTki7wv2G+YjBuyX6CA8owZwNTUPdqfNYUF7sDyYxb6PNnKld8\namp1hmzPFJXTeC4GuvBLDx0i5jaghPbqxPm9gc7mOqzf+YWmqRiZu3OEt220aTvC\nMturTysTIBEO+hN19YxjoL2xkNO2tF+aqddCG9/Oy+VJlUrD4H89sBsv7mOlrXUf\nuy7BteSsVuUYtaWPCb0DjDRA4EaHhnAVJ5qqMjE9oQKBgQD+dc9FilZWGgJazuWc\n0cSjAKqC54LEXIAl5S7HapFm+CIEcfd5hk+gieJ97zmRJhD4u965LFWoiIS5u3YV\ns1QQtMl3NM7nSc/hetrOxQuys+kvrtAW0OlYGuHI/t5zHOMVkjjSCv6pB4j7F4e2\nJloBwHGY8p9HJep8CTpHmxSkdQKBgQDYtxPZgqVU61zdVk0zwErlc491O7PD4HXH\nWhViQEgVnNEbApriBvGvg60BoD7ZL4pkRpoTVixoXhplJPwumPaVOLAlagAKaT+I\nS7WZkWtC5246MIHOpXdBljX6aoqoiMkdz6Y/GxXsAchaR789F/JzosI7CleWbl2D\nWcb86QS1YQKBgQChiCHq8DV8dQhXow2JrnQYUbzsWpDdnCbRZ5p5hwIEjrHxhnNm\nFsgHjmBUN3+gz7xoWcK6ZBWAZiFzUjhU8EEGVe2qmcBafLXVWkr6hYW2jJUT6vI3\n+aiXgIEiOgD2rDjPocImPEqK/LiNRNOm4tOyVvsF78cCwGQJF0aC3ESPXQKBgCZ1\nJrKcupY9RjeJDx4165SYU0bsl1QVSxFbbRwIaEJdl8YBSlb+AHmzFkqJk12bUCXH\nWaRA0JScznZQf+gNAQUuECQzkVpHnxyiwtFDuxMeWrM81GxFdMpQy7dqnLyXuYju\nxoPAXL2K+3D59nfy/fWDVpB/n1d0smeS0Pskps9BAoGBAOJWO6zEsF8Mg37vHKpi\nsDxI76NoIiGMkeQIAB1GNIzz3ocLUkpzlqYkhq/dgVsjoISTI95Lpot46bCrjkMi\nvELW6IBflFB5SDXvd54+z6PFjkmhFOzbf7RcEcRDK9knvyEP8DUAKPA+w3StOGU/\nNSzBvy0TsDBWMvWCurrWtbKb\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-xg4e3r10mvsk0a02h4skf8pdjo@brutal-mission-1.iam.gserviceaccount.com",
+  "client_id": "115274595910823310066",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-xg4e3r10mvsk0a02h4skf8pdjo%40brutal-mission-1.iam.gserviceaccount.com"
+}
